@@ -1,0 +1,24 @@
+---
+- !ruby/object:Quarter
+  year: 2015
+  season: 'fall'
+
+- !ruby/object:Quarter
+  year: 2016
+  season: 'winter'
+
+- !ruby/object:Quarter
+  year: 2016
+  season: 'spring'
+
+- !ruby/object:Quarter
+  year: 2016
+  season: 'fall'
+
+- !ruby/object:Quarter
+  year: 2017
+  season: 'winter'
+
+- !ruby/object:Quarter
+  year: 2017
+  season: 'spring'

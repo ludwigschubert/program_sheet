@@ -1,0 +1,25 @@
+---
+- !ruby/object:Course
+  code: "CS 103"
+  seasons: [ 'fall', 'winter' ]
+  unit_range: !ruby/range 3..5
+
+- !ruby/object:Course
+  code: "CS 247"
+  seasons: [ 'fall', 'winter' ]
+  unit_range: !ruby/range 3..4
+
+- !ruby/object:Course
+  code: "CS 221"
+  seasons: [ 'fall' ]
+  unit_range: !ruby/range 3..4
+
+- !ruby/object:Course
+  code: "CS 109"
+  seasons: [ 'winter', 'spring', 'summer' ]
+  unit_range: !ruby/range 3..5
+
+- !ruby/object:Course
+  code: "CS 161"
+  seasons: [ 'winter', 'spring', 'summer' ]
+  unit_range: !ruby/range 3..5

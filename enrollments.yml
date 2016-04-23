@@ -1,0 +1,33 @@
+---
+Quarters:
+
+  Fall 2015:
+    - CS 103, 3
+    - CS 247, 4
+    - CS 221, 3
+
+  Winter 2016:
+    - CS 109, 4
+    - CS 231N, 3 # maybe instead of 231a? -> Landay
+    - CS 399, 3 # with Alex Aiken
+
+  Spring 2016:
+    - CS 166, 3
+    # - CS 143, 4
+    - CS 170, 3
+
+  Fall 2016:
+    - CS 229, 3
+    - CS 224N, 4 # Maybe substitute 224U? -> Landay, spring
+    - CS 242, 3
+
+  Winter 2017:
+    - CS 142, 3
+    - CS 240H, 3
+    - CS 161, 4
+    # - ARTSTUDI 160, 4
+
+Waivers:
+  - CS 107
+  - CS 110
+  - CS 147

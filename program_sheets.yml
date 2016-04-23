@@ -1,0 +1,23 @@
+---
+HCI:
+  - name: UnitsConstraint
+  - name: FoundationsConstraint
+  - name: CourseSubsetConstraint
+    courses: ["CS 147"]
+  - name: CourseSubsetConstraint
+    courses: ["CS 247"]
+  - name: CourseSubsetConstraint
+    courses: ["CME 108", "CME 302", "CS 140", "CS 143", "CS 144", "EE 284", "CS 145", "CS 149", "CS 154", "CS 155", "CS 157", "CS 166", "CS 168", "CS 173", "CS 273A", "CS 205A", "CS 223A", "CS 224M", "CS 224S", "CS 227B", "CS 228", "CS 233", "CS 240", "CS 240E", "CS 240H", "CS 243", "CS 244", "CS 244B", "CS 244E", "CS 249A", "CS 255", "CS 261", "CS 262", "CS 264", "CS 265", "CS 266", "CS 267", "CS 268", "CS 270", "CS 274", "CS 276", "CS 279", "EE 180", "EE 282"]
+    minimum_number: 3
+  - name: CourseUnitSubsetConstraint
+    courses: ["CS 147", "CS 247", "CME 108", "CME 302", "CS 140", "CS 143", "CS 144", "EE 284", "CS 145", "CS 149", "CS 154", "CS 155", "CS 157", "CS 166", "CS 168", "CS 173", "CS 273A", "CS 205A", "CS 223A", "CS 224M", "CS 224S", "CS 227B", "CS 228", "CS 233", "CS 240", "CS 240E", "CS 240H", "CS 243", "CS 244", "CS 244B", "CS 244E", "CS 249A", "CS 255", "CS 261", "CS 262", "CS 264", "CS 265", "CS 266", "CS 267", "CS 268", "CS 270", "CS 274", "CS 276", "CS 279", "EE 180", "EE 282", "CS 221", "CS 224N", "CS 224U", "CS 224W", "CS 229", "CS 231A", "CS 231B", "CS 242", "CS 246", "CS 341", "CS 393*", "CS 395*", "CS 399*", "ARTSTUDI 160", "ARTSTUDI 162", "ARTSTUDI 163", "ARTSTUDI 164", "ARTSTUDI 165", "ARTSTUDI 168", "ARTSTUDI 264", "ARTSTUDI 266", "ARTSTUDI 267", "COMM 224", "COMM 240", "COMM 266", "COMM 269", "COMM 272", "COMM 282", "COMM 324", "COMM 314", "EDUC 200B", "EDUC 291X", "MS&E 125", "PSYCH 252", "PSYCH 254", "STATS 203", "EDUC 239X", "EDUC 281X", "EDUC 338X", "EDUC 342", "MS&E 185", "MS&E 331", "MS&E 334", "ME 203", "ME 210", "ME 216A", "MUSIC 220A", "MUSIC 220B", "MUSIC 220C", "MUSIC 250A", "PSYCH 204", "PSYCH 209", "SYMSYS 245"]
+    minimum_units: 27
+  - name: TotalUnitsConstraint
+    maximum_foundation_units: 10
+    minimum_units: 45
+# AI:
+#   - name: UnitsConstraint
+#   - name: FoundationsConstraint
+# HCI+AI:
+#   - name: UnitsConstraint
+#   - name: FoundationsConstraint
